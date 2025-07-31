@@ -37,5 +37,5 @@ dependent processes.
 
 # Source Code
 
-🔒 The source code is private for to confidentiality.  
+🔒 The source code is private for confidentiality reasons.  
 📬 I'm happy to discuss the implementation during interviews
